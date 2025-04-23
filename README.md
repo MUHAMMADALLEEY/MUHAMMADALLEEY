@@ -62,11 +62,6 @@
   <!-- Support Badge -->
   <img src="https://img.shields.io/badge/Support%20My%20Project%20🚀-Sponsor%20My%20Work-blue?style=for-the-badge&logo=github&logoColor=white" />
 
-  <!-- Tech Stack Badge -->
-  <img src="https://img.shields.io/badge/Tech%20Stack-React%20%7C%20Node.js-brightgreen?style=for-the-badge&logo=react&logoColor=white" />
-
-  <!-- License Badge -->
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 
