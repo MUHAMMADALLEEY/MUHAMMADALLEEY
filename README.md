@@ -62,28 +62,51 @@
   <img src="https://img.shields.io/badge/Support%20My%20Project%20🚀-Sponsor%20My%20Work-blue?style=for-the-badge&logo=github&logoColor=white" />
 
 </p>
+
+
 <h2 align="center">My Projects</h2>
-<p align="center">
-  <!-- Project 1 -->
-  <a href="https://github.com/MUHAMMADALLEEY/project1" target="_blank">
-    <img src="https://img.shields.io/badge/Project%201-React%20App-blue?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <!-- Project Card 1 -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; margin: 10px; padding: 15px; width: 250px; background-color: #f7f7f7;">
+    <h3 align="center">Project 1: React App</h3>
+    <p align="center">A simple React application to showcase my skills.</p>
+    <!-- Project Image -->
+    <img src="https://via.placeholder.com/200x150" alt="Project 1 Image" style="display: block; margin: 0 auto; border-radius: 5px;" />
+    <img src="https://img.shields.io/badge/React%20App-blue?style=for-the-badge&logo=react&logoColor=white" style="display: block; margin: 10px auto;" />
+    <a href="https://github.com/MUHAMMADALLEEY/project1" target="_blank" style="display: block; text-align: center; margin-top: 10px; color: blue;">View Project</a>
+  </div>
 
-  <!-- Project 2 -->
-  <a href="https://github.com/MUHAMMADALLEEY/project2" target="_blank">
-    <img src="https://img.shields.io/badge/Project%202-Node.js%20API-brightgreen?style=for-the-badge&logo=node.js&logoColor=white" />
-  </a>
+  <!-- Project Card 2 -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; margin: 10px; padding: 15px; width: 250px; background-color: #f7f7f7;">
+    <h3 align="center">Project 2: Node.js API</h3>
+    <p align="center">A RESTful API built with Node.js and Express.</p>
+    <!-- Project Image -->
+    <img src="https://via.placeholder.com/200x150" alt="Project 2 Image" style="display: block; margin: 0 auto; border-radius: 5px;" />
+    <img src="https://img.shields.io/badge/Node.js%20API-brightgreen?style=for-the-badge&logo=node.js&logoColor=white" style="display: block; margin: 10px auto;" />
+    <a href="https://github.com/MUHAMMADALLEEY/project2" target="_blank" style="display: block; text-align: center; margin-top: 10px; color: blue;">View Project</a>
+  </div>
 
-  <!-- Project 3 -->
-  <a href="https://github.com/MUHAMMADALLEEY/project3" target="_blank">
-    <img src="https://img.shields.io/badge/Project%203-Python%20Script-yellow?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
+  <!-- Project Card 3 -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; margin: 10px; padding: 15px; width: 250px; background-color: #f7f7f7;">
+    <h3 align="center">Project 3: Python Script</h3>
+    <p align="center">A Python script for data analysis and visualization.</p>
+    <!-- Project Image -->
+    <img src="https://via.placeholder.com/200x150" alt="Project 3 Image" style="display: block; margin: 0 auto; border-radius: 5px;" />
+    <img src="https://img.shields.io/badge/Python%20Script-yellow?style=for-the-badge&logo=python&logoColor=white" style="display: block; margin: 10px auto;" />
+    <a href="https://github.com/MUHAMMADALLEEY/project3" target="_blank" style="display: block; text-align: center; margin-top: 10px; color: blue;">View Project</a>
+  </div>
 
-  <!-- Project 4 -->
-  <a href="https://github.com/MUHAMMADALLEEY/project4" target="_blank">
-    <img src="https://img.shields.io/badge/Project%204-Vue.js%20App-orange?style=for-the-badge&logo=vue.js&logoColor=white" />
-  </a>
-</p>
+  <!-- Project Card 4 -->
+  <div style="border: 1px solid #ccc; border-radius: 8px; margin: 10px; padding: 15px; width: 250px; background-color: #f7f7f7;">
+    <h3 align="center">Project 4: Vue.js App</h3>
+    <p align="center">A Vue.js app for managing tasks efficiently.</p>
+    <!-- Project Image -->
+    <img src="https://via.placeholder.com/200x150" alt="Project 4 Image" style="display: block; margin: 0 auto; border-radius: 5px;" />
+    <img src="https://img.shields.io/badge/Vue.js%20App-orange?style=for-the-badge&logo=vue.js&logoColor=white" style="display: block; margin: 10px auto;" />
+    <a href="https://github.com/MUHAMMADALLEEY/project4" target="_blank" style="display: block; text-align: center; margin-top: 10px; color: blue;">View Project</a>
+  </div>
+</div>
+
 
 
  📊 Visitor Count
