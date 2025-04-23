@@ -59,9 +59,30 @@
 
 ## ☕ Support My Work
 <p align="center">
-  <!-- Support Badge -->
   <img src="https://img.shields.io/badge/Support%20My%20Project%20🚀-Sponsor%20My%20Work-blue?style=for-the-badge&logo=github&logoColor=white" />
 
+</p>
+<h2 align="center">My Projects</h2>
+<p align="center">
+  <!-- Project 1 -->
+  <a href="https://github.com/MUHAMMADALLEEY/project1" target="_blank">
+    <img src="https://img.shields.io/badge/Project%201-React%20App-blue?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+
+  <!-- Project 2 -->
+  <a href="https://github.com/MUHAMMADALLEEY/project2" target="_blank">
+    <img src="https://img.shields.io/badge/Project%202-Node.js%20API-brightgreen?style=for-the-badge&logo=node.js&logoColor=white" />
+  </a>
+
+  <!-- Project 3 -->
+  <a href="https://github.com/MUHAMMADALLEEY/project3" target="_blank">
+    <img src="https://img.shields.io/badge/Project%203-Python%20Script-yellow?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+
+  <!-- Project 4 -->
+  <a href="https://github.com/MUHAMMADALLEEY/project4" target="_blank">
+    <img src="https://img.shields.io/badge/Project%204-Vue.js%20App-orange?style=for-the-badge&logo=vue.js&logoColor=white" />
+  </a>
 </p>
 
 
