@@ -39,12 +39,14 @@
 
 ## 📈 GitHub Highlights
 
+## 📈 GitHub Highlights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?MUHAMMADALLEEY=&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMADALLEEY&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
   <img src="https://streak-stats.demolab.com?user=MUHAMMADALLEEY&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&border_radius=10" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMADALLEEY&layout=compact&theme=tokyonight&border_radius=10" width="40%" />
 </p>
 
 ---
