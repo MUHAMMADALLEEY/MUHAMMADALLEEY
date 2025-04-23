@@ -1,10 +1,10 @@
 <!-- Header with Name & Title -->
-<h1 align="center">Hey there! 👋 I'm <span style="color:#00C2CB;">Your Name</span></h1>
-<h3 align="center">🚀 MERN Stack Developer | 🎨 UI/UX Enthusiast | 🔥 Firebase Explorer</h3>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#00C2CB;">Muhammad Ali</span></h1>
+<h3 align="center">🚀 Full Stack Developer | 🔥 Firebase Explorer</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+with+React+and+Node;Crafting+Beautiful+UIs;Let%E2%80%99s+Collaborate+and+Create!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+with+React;Crafting+Beautiful+UIs;Let%E2%80%99s+Collaborate+and+Create!" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,9 +13,9 @@
 
 - 🔭 Currently building cool stuff with **React JS + Firebase**
 - 🌱 Diving deeper into **MongoDB | Express | Node.js**
-- 👯 Open to collaborating on **web projects & hackathons**
-- 💬 Ask me about **React, Firebase, GitHub, or UI Design**
-- 📫 Reach me at **[your.email@example.com](mailto:your.email@example.com)**
+- 👯 Open to collaborating on **web projects **
+- 💬 Ask me about **React, Firebase, Redux, or UI Design**
+- 📫 Reach me at **[muhammadali43800@gmail.com](mailto:muhammadali43800@gmail.com)**
 - ⚡ Fun fact: I often sketch UI ideas before touching code 😄
 
 ---
@@ -31,11 +31,10 @@
 ## 🚀 Featured Projects
 
 - 🔐 **Authify** – A Firebase Auth App built in React  
-- 🛍 **QuickCart** – MERN stack eCommerce experience  
+- 🛍 **QuickCart** – Ecommerce experience  
 - 📷 **SnapGram UI** – A visually appealing social feed mockup  
 - 📚 **NotesKeeper** – Real-time Notes App with Firebase  
 - 🖼️ **Image Uploader** – Upload and preview media easily
-
 ---
 
 ## 📈 GitHub Highlights
