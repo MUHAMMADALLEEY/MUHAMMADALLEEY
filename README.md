@@ -1,13 +1,8 @@
-<!-- Header with Name & Title -->
 <h1 align="center">Hey there! 👋 I'm <span style="color:#00C2CB;">Muhammad Ali</span></h1>
 <h3 align="center">🚀 Full Stack Developer | 🔥 Firebase Explorer</h3>
-
-<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+with+React;Crafting+Beautiful+UIs;Let%E2%80%99s+Collaborate+and+Create!" alt="Typing SVG" />
 </p>
-
----
 
 ## 🧠 About Me
 
@@ -17,8 +12,6 @@
 - 💬 Ask me about **React, Firebase, Redux, or UI Design**
 - 📫 Reach me at **[muhammadali43800@gmail.com](mailto:muhammadali43800@gmail.com)**
 - ⚡ Fun fact: I often sketch UI ideas before touching code 😄
-
----
 
 ## 🛠️ Tech Toolbox
 
@@ -36,8 +29,6 @@
 - 📚 **NotesKeeper** – Real-time Notes App with Firebase  
 - 🖼️ **Image Uploader** – Upload and preview media easily
 ---
-
-## 📈 GitHub Highlights
 
 ## 📈 GitHub Highlights
 
@@ -74,11 +65,8 @@
     <img src="https://img.shields.io/badge/Coffee%20%F0%9F%8D%B5-Buy%20me%20a%20coffee-yellow?style=for-the-badge" />
   </a>
 </p>
-
 ---
-
-## 📊 Visitor Count
-
+## 📊 Visitor Coun
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Visitors&color=0e75b6&style=flat" />
 </p>
