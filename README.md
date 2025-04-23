@@ -58,10 +58,20 @@
 ---
 
 ## ☕ Support My Work
-
 <p align="center">
-  <a href="https://buymeacoffee.com/MUHAMMADALLEEY" target="_blank">
-    <img src="https://img.shields.io/badge/Coffee%20%F0%9F%8D%B5-Buy%20me%20a%20coffee-yellow?style=for-the-badge" />
+  <!-- Support Badge -->
+  <a href="https://buymeacoffee.com/MYUSERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Support%20My%20Project%20🚀-Sponsor%20My%20Work-blue?style=for-the-badge" />
+  </a>
+
+  <!-- Tech Stack Badge -->
+  <a href="https://github.com/MYUSERNAME/myproject" target="_blank">
+    <img src="https://img.shields.io/badge/Tech%20Stack-React%20%7C%20Node.js-brightgreen?style=for-the-badge" />
+  </a>
+
+  <!-- License Badge -->
+  <a href="https://opensource.org/licenses/MIT" target="_blank">
+    <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
   </a>
 </p>
 
