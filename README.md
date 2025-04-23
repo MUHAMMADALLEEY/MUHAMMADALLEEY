@@ -1,42 +1,56 @@
-# Hi there 👋 I'm [Your Name]
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">Frontend Developer | React Enthusiast | MERN Stack Learner</h3>
 
-## 🚀 About Me  
-- 🔭 I’m currently working on **React JS**  
-- 🌱 I’m learning **MongoDB | Express | Node.js**  
-- 👯 I’m open to collaborating on **Web Projects**  
-- 💬 Ask me about **Frontend, Firebase, or GitHub**  
-- 📫 How to reach me: [your.email@example.com]  
-- ⚡ Fun fact: I love building UI components from scratch  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=React+Developer;MERN+Stack+Explorer;Firebase+Fan;Let's+build+together!"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)  
+### 🧑‍💻 About Me
+- 🔭 I’m currently working on **React JS projects**
+- 🌱 Learning **MongoDB | Express | Node.js**
+- 👯 Open to **collaborating on frontend/backend projects**
+- 💬 Ask me about **React, Firebase, or GitHub**
+- 📫 Reach me at: **[your.email@example.com]**
+- ⚡ Fun fact: I love building beautiful UIs that *just feel right*
 
 ---
 
-## 📈 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true)
+### 🛠️ Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,js,html,css,git,github,vscode" />
+</p>
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge)](https://yourportfolio.com)  
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical" width="47%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="47%" />
+</p>
 
 ---
 
-## 📊 Visitor Count  
-![visitors](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue)
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🧠 Fun Projects  
-- 📱 React Native Recipe App  
-- 📚 Firebase Notes App  
-- 🖼️ Image Uploader with Preview  
+### 📊 Visitors
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
