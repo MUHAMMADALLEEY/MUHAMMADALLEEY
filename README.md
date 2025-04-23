@@ -63,49 +63,6 @@
 
 </p>
 
-<h2 align="center">My Projects</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <!-- Project Card 1 -->
-  <div style="border: 1px solid #ccc; border-radius: 8px; margin: 10px; padding: 15px; width: 250px; background-color: #f7f7f7;">
-    <h3 align="center">Project 1: React App</h3>
-    <p align="center">A simple React application to showcase my skills.</p>
-    <!-- Project Image -->
-    <img src="https://i.imgur.com/your-image1.png" alt="Project 1 Image" style="display: block; margin: 0 auto; border-radius: 5px;" />
-    <img src="https://img.shields.io/badge/React%20App-blue?style=for-the-badge&logo=react&logoColor=white" style="display: block; margin: 10px auto;" />
-    <a href="https://github.com/MUHAMMADALLEEY/project1" target="_blank" style="display: block; text-align: center; margin-top: 10px; color: blue;">View Project</a>
-  </div>
-
-  <!-- Project Card 2 -->
-  <div style="border: 1px solid #ccc; border-radius: 8px; margin: 10px; padding: 15px; width: 250px; background-color: #f7f7f7;">
-    <h3 align="center">Project 2: Node.js API</h3>
-    <p align="center">A RESTful API built with Node.js and Express.</p>
-    <!-- Project Image -->
-    <img src="https://i.imgur.com/your-image2.png" alt="Project 2 Image" style="display: block; margin: 0 auto; border-radius: 5px;" />
-    <img src="https://img.shields.io/badge/Node.js%20API-brightgreen?style=for-the-badge&logo=node.js&logoColor=white" style="display: block; margin: 10px auto;" />
-    <a href="https://github.com/MUHAMMADALLEEY/project2" target="_blank" style="display: block; text-align: center; margin-top: 10px; color: blue;">View Project</a>
-  </div>
-
-  <!-- Project Card 3 -->
-  <div style="border: 1px solid #ccc; border-radius: 8px; margin: 10px; padding: 15px; width: 250px; background-color: #f7f7f7;">
-    <h3 align="center">Project 3: Python Script</h3>
-    <p align="center">A Python script for data analysis and visualization.</p>
-    <!-- Project Image -->
-    <img src="https://i.imgur.com/your-image3.png" alt="Project 3 Image" style="display: block; margin: 0 auto; border-radius: 5px;" />
-    <img src="https://img.shields.io/badge/Python%20Script-yellow?style=for-the-badge&logo=python&logoColor=white" style="display: block; margin: 10px auto;" />
-    <a href="https://github.com/MUHAMMADALLEEY/project3" target="_blank" style="display: block; text-align: center; margin-top: 10px; color: blue;">View Project</a>
-  </div>
-
-  <!-- Project Card 4 -->
-  <div style="border: 1px solid #ccc; border-radius: 8px; margin: 10px; padding: 15px; width: 250px; background-color: #f7f7f7;">
-    <h3 align="center">Project 4: Vue.js App</h3>
-    <p align="center">A Vue.js app for managing tasks efficiently.</p>
-    <!-- Project Image -->
-    <img src="https://i.imgur.com/your-image4.png" alt="Project 4 Image" style="display: block; margin: 0 auto; border-radius: 5px;" />
-    <img src="https://img.shields.io/badge/Vue.js%20App-orange?style=for-the-badge&logo=vue.js&logoColor=white" style="display: block; margin: 10px auto;" />
-    <a href="https://github.com/MUHAMMADALLEEY/project4" target="_blank" style="display: block; text-align: center; margin-top: 10px; color: blue;">View Project</a>
-  </div>
-</div>
-
 
  📊 Visitor Count
 <p align="center">
