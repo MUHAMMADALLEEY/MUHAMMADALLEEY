@@ -23,7 +23,7 @@
 ## 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,html,css,js,ts,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,html,css,js,ts,tailwind,github,vscode" />
 </p>
 
 ---
