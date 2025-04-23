@@ -60,11 +60,12 @@
 ## ☕ Support My Work
 
 <p align="center">
-  <a href="https://buymeacoffee.com/yourname" target="_blank">
+  <a href="https://buymeacoffee.com/MUHAMMADALLEEY" target="_blank">
     <img src="https://img.shields.io/badge/Coffee%20%F0%9F%8D%B5-Buy%20me%20a%20coffee-yellow?style=for-the-badge" />
   </a>
 </p>
- 📊 Visitor Coun
+
+ 📊 Visitor Count
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MUHAMMADALLEEY&label=Visitors&color=0e75b6&style=flat" />
 </p>
