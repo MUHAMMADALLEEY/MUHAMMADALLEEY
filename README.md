@@ -31,15 +31,6 @@
 ---
 
 ## 📈 GitHub Highlights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMADALLEEY&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=MUHAMMADALLEEY&theme=tokyonight&border_radius=10" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMADALLEEY&layout=compact&theme=tokyonight&border_radius=10" width="40%" />
-</p>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMADALLEEY&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
@@ -75,5 +66,6 @@
 </p>
  📊 Visitor Coun
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Visitors&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=MUHAMMADALLEEY&label=Visitors&color=0e75b6&style=flat" />
 </p>
+
